@@ -14,6 +14,6 @@ class MainScene extends Scene
 	public override function update()
 	{
         super.update();
-        explosion.explode(30, 40);
+        explosion.explode(230, 240);
 	}
 }
